@@ -1,0 +1,16 @@
+ALGORITHM
+
+Step 1: Start
+Step 2: Declare the file pointer fp.
+Step 3: Declare structure Asset with variables “no”, “name” and “price”.
+Step 4: Declare variables choice of type integer.
+Step 5: open the file in append mode using fopen instruction.
+Step 6: call the do while loop
+		read the input Asset no, Asset name, Asset price.
+Step 7: print the message to add new record and read the input.
+Step 8: close the file and stop.
+
+
+
+
+
