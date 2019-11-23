@@ -1,0 +1,12 @@
+ALGORITHM
+
+Step 1: Start
+Step 2: Declare and define class “manager” with public functions “getdata” which prints the employee’s information, “setbonus” which prints the department and bonus and private variables “name”, “dept”, “emDid” and “bonus”.
+Step 3: Declare and define class “prodmanager” inheriting from main class “manager” with public functions “managersprod” which prints the supplies, “display” which prints the required information of the products and bonus and define variable “noofsup”.
+Step 4: Declare and define class “salesman” inheriting from main class “manager” with public functions “managersales” which prints the sales, “display” which prints the required information of the sales and bonus and define variable “noofsalesman”.
+Step 5: call “getdata”, function through salesman class by inheriting from main class manager to print the information required. Similary for prodmanger class. 
+Step 6: Print the Number of Supplies by calling a member function “managerprod” from class “prodmanager”.
+Step 7: Print the Number of Sales by calling a member function “managersales” from class “salesman”.
+Step 6: call “setbonus”, function through salesman class by inheriting from main class manager to display the information required. Similary for prodmanger class.
+Step 7: call “display”, function through salesman class by inheriting from main class manager to display the information required. Similary for prodmanger class..
+Step 8: Stop
