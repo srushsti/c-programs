@@ -1,0 +1,11 @@
+      ALGORITHM
+
+Step 1: Start
+Step 2: create the class of allarea type with private variable ar1, ar2, ar3.
+Step 3: Declare and define functions “area” for calculating area of circle, rectangular and triangle.
+Step 4: declare and define display function.
+Step 5: declare the variables and  call the allarea of type of class.
+Step 6: take the input from user.
+Step 7: stop
+
+
