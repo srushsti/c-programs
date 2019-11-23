@@ -1,0 +1,17 @@
+ALGORITHM
+
+Step 1: Start
+Step 2: Declare and define functions “additem”, “deleteitem”, “updatebill” and “displaycart” 
+Step 3: Declare structure cart_items with variables “code”, “quantity” and “cost” 
+Step 4: Declare variables stock[i][j], choice, item_number, total. 
+Step 5: Print the stock items. 
+Step 6: Read choice from the user.
+		Case ‘1’ – call “additem” function which adds item in your cart. 
+		Case ‘2’ – call “deleteitem” function which deletes items in your cart
+		Case ‘3’ – call “displaycart” function which displays your carts
+		Case ‘default’ – GOTO 8
+Step 7: Call “updatebill” function to display items in your cart and the total bill. 
+Step 8: Stop
+
+
+
