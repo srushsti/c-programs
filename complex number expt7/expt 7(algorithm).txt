@@ -1,0 +1,13 @@
+ALGORITHM
+Step 1: Start
+Step 2: Declare and define class “COMPLES” with public functions “get” which reads the real and imaginary parts, “display” which prints the complex number and “add” which calculates additions of the complex numbers.
+Step 3: Read the 1st and 2nd Complex Number as real and imaginary part. 
+Step 4: call “get” function.
+Step 5: call “display” function to display the complex numbers. 
+Step 6: call “add” function to add the Complex Numbers.
+Step 7: Print the Resultant Complex Number.
+Step 8: Stop
+
+
+
+
