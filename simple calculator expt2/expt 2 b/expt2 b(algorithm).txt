@@ -1,0 +1,13 @@
+ALGORITHM
+
+Step 1: Start
+Step 2: Declare and define functions add, subtract, multiply and divide 
+Step 3: Declare variables num1, num2, ans and c. 
+Step 4: Read values num1, num2 and arithmetic operation. 
+Step 5: Read arithmetic operation.
+		case ‘+’ – call “add” function using pointers which returns	 (ans=num1+num2)
+		case ‘-’ – call “substract” function using pointers which returns (ans=num1-num2)
+		case ‘*’ – call “multiply” function using pointers which returns (ans=num1*num2)
+		case ‘/’ – call “divide” function using pointers which return (ans=num1/num2)	
+Step 6: Display result 
+Step 7: Stop

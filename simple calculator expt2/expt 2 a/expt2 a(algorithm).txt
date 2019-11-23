@@ -1,0 +1,14 @@
+                       ALGORITHM
+
+Step 1: Start
+Step 2: Declare and define functions add, subtract, multiply and divide 
+Step 3: Declare variables num1, num2, ans and c. 
+Step 4: Read values num1, num2 and arithmetic operation. 
+Step 5: Read arithmetic operation.
+		Case ‘+’ – call “add” function which returns	 (ans=num1+num2)
+		Case ‘-’ – call “subtract” function which returns (ans=num1-num2)
+		Case ‘*’ – call “multiply” function which returns (ans=num1*num2)
+		Case ‘/’ – call “divide” function which return (ans=num1/num2)	
+Step 6: Display result 
+Step 7: Stop
+
