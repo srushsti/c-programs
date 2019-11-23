@@ -1,0 +1,15 @@
+
+ALGORITHM
+
+Step 1: Start
+Step 2: Declare and define structure “account” with variables “acc_no”, “acc_type”, “name[20]” and “balance”
+Step 3: Declare variables “amt”, “arin”, “balance” and define array “customer []” with predefined data.
+Step 4: Read account number from the user.
+Step 5: Check if account number is valid. If not valid print “Invalid Account Number” GOTO 8. 
+Step 6: Check if account number is valid. Print Account Number, Account Type and Name.
+Step 7: Read choice from the user.
+	Case ‘1’ – call “balance” function which prints account balance. 
+	Case ‘2’ – call “deposits” function which deposits funds to current balance.
+	Case ‘3’ – call “withdraw” function which withdraws funds from current balance
+	Case ‘default’ – GOTO 8
+Step 8: STOP
