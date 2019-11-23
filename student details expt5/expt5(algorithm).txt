@@ -1,0 +1,18 @@
+    ALGORITHM
+Step 1: Start
+Step 2: create the class of student type with private variable name, grade, usn, and marks of different subjects.
+Step 3:initialize the student using constructor.
+Step 4: Declare and define functions “getdata”, “calculate”, “showstudent” and “findgrade”.
+Step 5: define the destructor. 
+Step 6:declare the variable and read the input from user.
+Step 7: call the constructor student of type of class.
+Step 8: call the functions to get data and calculate the grade and print the data.
+Step 9:stop
+
+
+
+
+
+
+
+
